@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/authors/jeff.html</loc>
+<lastmod>2022-04-28T08:13:07+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/authors/miji.html</loc>
+<lastmod>2022-04-28T08:13:07+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2021/06/15/fasting.html</loc>
+<lastmod>2021-06-15T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2021/06/16/test.html</loc>
+<lastmod>2021-06-16T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/04/27/morning-routine.html</loc>
+<lastmod>2022-04-27T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/collaborator.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>

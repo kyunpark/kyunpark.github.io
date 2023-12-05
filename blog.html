@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Blog
 ---
 <h1>Latest Posts</h1>
@@ -6,7 +7,7 @@ title: Blog
 <ul>
 	{% for post in site.posts %}
 		<li>
-			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2> <!--여기에 포스팅 날짜를 추가하려면?-->
 			{{ post.excerpt }}
 		</li>
 	{% endfor %}
